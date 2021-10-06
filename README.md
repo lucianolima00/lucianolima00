@@ -1,5 +1,6 @@
 ### Hi there 👋
-![lucianolima00's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianolima00&show_icons=true&theme=radical)
+![lucianolima00's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianolima00&show_icons=true&theme=radical&count_private=true)
+
 
 ---
 - 🌱 I’m currently learning Flutter and Yii
