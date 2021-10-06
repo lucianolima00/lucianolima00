@@ -9,5 +9,5 @@
 ---
 - 📷 Behance: [lucianolima00](https://www.behance.net/lucianolima00)
 - 🐙 Gitlab: [lucianolima00](https://gitlab.com/lucianolima00)
-- 👨‍💻LinkedIn: [lcuainolima00](https://www.linkedin.com/in/lucianolima00/)
+- 👨‍💻LinkedIn: [lucianolima00](https://www.linkedin.com/in/lucianolima00/)
 - 📫 How to reach me: [lucianolima00](lucianolima122123@gmail.com)
