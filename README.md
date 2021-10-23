@@ -3,9 +3,9 @@
 
 
 ---
-- 🌱 I’m currently learning Flutter and Yii
-- 👯 I’m looking to collaborate on Flutter and Yii
-- 🤔 I’m looking for help with Flutter
+- 🌱 I’m currently learning Flutter and ReactJS
+- 👯 I’m looking to collaborate on OpenSources using ReactJS
+- 🤔 I’m looking for help with Javascript
 - 💬 Ask me about anything
 ---
 - 📷 Behance: [lucianolima00](https://www.behance.net/lucianolima00)
