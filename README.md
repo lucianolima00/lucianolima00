@@ -1,12 +1,3 @@
-<!-- TITLE --> 
-<p align="center">
-  <a>
-    <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Luciano+Lima;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</p>
-
-<hr>
-
 <!-- ABOUT ME -->
 <!-- 💬 About me: -->
 <h3 align="center">
@@ -40,6 +31,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img alt="GitHub Streak Stats" align="center" width=470 src="https://github-readme-stats.vercel.app/api?username=lucianolima00&show_icons=true&theme=radical&border_color=61dafb&hide_border=true&count_private=true"/>
     </a>
+    <br><br>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img alt="Top Langs" align="center" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianolima00&hide=TeX&layout=compact&theme=radical&border_color=61dafb&hide_border=true&count_private=true" />
     </a>
