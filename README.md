@@ -30,10 +30,6 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img alt="GitHub Streak Stats" align="center" width=470 src="https://github-readme-stats.vercel.app/api?username=lucianolima00&show_icons=true&theme=radical&border_color=61dafb&hide_border=true&count_private=true"/>
     </a>
-    <br><br>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Top Langs" align="center" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianolima00&hide=TeX&layout=compact&theme=radical&border_color=61dafb&hide_border=true&count_private=true" />
-    </a>
   </div>
   <br>
 <!--   <img alt="GitHub Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=ArgLD&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
