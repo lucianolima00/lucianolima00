@@ -37,8 +37,8 @@
 
 
 ---
-- 🌱 I’m currently learning Flutter and ReactJS
-- 👯 I’m looking to collaborate on OpenSources using ReactJS
+- 🌱 I’m currently learning Laravel and ReactJS
+- 👯 I’m looking to collaborate on OpenSources using Laravel
 - 🤔 I’m looking for help with Javascript
 - 💬 Ask me about anything
 ---
